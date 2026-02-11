@@ -1,7 +1,7 @@
 ## Hi, I'm Joshua Jimmy 👋🏽👋🏽
 
 # 💫 About Me:
-I am currently a 4th year student at the University of Alberta.<br>
+I am a recent graduate from the University of Alberta<br>
 I love to problem solve and code whenever I can!! <br>
 
 
